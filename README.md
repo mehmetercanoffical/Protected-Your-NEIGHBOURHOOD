@@ -22,10 +22,14 @@
 
 ![Picture 4](/Images/ProtectYourNeightbord_4.png)
 
+## Change the Gun (Guns length = 4+ :)
+
+![Picture 5](/Images/ProtectYourNeightbord_2.0.png)
+
 ## if you want to bullet, touch the F on Keyboard
 
-![Picture 4](/Images/ProtectYourNeightbord_5.png)
+![Picture 6](/Images/ProtectYourNeightbord_5.png)
 
 ## if you are kill the zombies, YOUR WIN
 
-![Picture 5](/Images/ProtectYourNeightbord_6.png)
+![Picture 7](/Images/ProtectYourNeightbord_6.png)
