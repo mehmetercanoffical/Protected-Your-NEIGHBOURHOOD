@@ -22,6 +22,10 @@
 
 ![Picture 4](/Images/ProtectYourNeightbord_4.png)
 
+## if you want to bullet, touch the F on Keyboard
+
+![Picture 4](/Images/ProtectYourNeightbord_5.png)
+
 ## if you are kill the zombies, YOUR WIN
 
-![Picture 5](/Images/ProtectYourNeightbord_5.png)
+![Picture 5](/Images/ProtectYourNeightbord_6.png)
